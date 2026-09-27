@@ -1,0 +1,5 @@
+name: codex-quota
+version: 1.0.0
+description: Read-only Codex subscription allowance for Hermes Desktop's status bar.
+provides_tools: []
+provides_hooks: []
